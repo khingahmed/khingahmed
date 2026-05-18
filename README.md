@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @khingahmed
 - 👀 I’m interested in DevOps
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on pyhton learning
+-- 💞️ I’m looking to collaborate on pyhton learning
 - 📫 How to reach me ahmedokesina@gmail.com
 
 <!---
